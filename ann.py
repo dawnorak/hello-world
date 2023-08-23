@@ -1,4 +1,4 @@
-rom numpy import exp, array, random, dot
+from numpy import exp, array, random, dot
 
 
 class NeuralNetwork():
